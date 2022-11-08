@@ -1,2 +1,2 @@
 # xcode
-testing Gethub with Xcode
+testing Github with Xcode
